@@ -1,2 +1,2 @@
 
-2 server
+print ('2 server')
